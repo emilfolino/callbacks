@@ -1,0 +1,27 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callbacks.js",
+  "dependencies": {
+    "eslint": "^4.18.0",
+    "eslint-plugin-react": "^7.6.1",
+    "mysql": "^2.15.0",
+    "promise-mysql": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilfolino/callbacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilfolino/callbacks/issues"
+  },
+  "homepage": "https://github.com/emilfolino/callbacks#readme"
+}
